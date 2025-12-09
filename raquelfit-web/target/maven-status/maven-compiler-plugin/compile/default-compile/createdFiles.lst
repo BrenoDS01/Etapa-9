@@ -1,0 +1,14 @@
+com\raquelfit\web\PagamentoController.class
+com\raquelfit\web\AuthController.class
+com\raquelfit\web\LoginDTO.class
+com\raquelfit\web\PresencaRepository.class
+com\raquelfit\web\RaquelfitWebApplication.class
+com\raquelfit\web\DashboardController.class
+com\raquelfit\web\Presenca.class
+com\raquelfit\web\Pagamento.class
+com\raquelfit\web\PagamentoRepository.class
+com\raquelfit\web\DashboardController$DashboardResumo.class
+com\raquelfit\web\Aluno.class
+com\raquelfit\web\PresencaController.class
+com\raquelfit\web\AlunoRepository.class
+com\raquelfit\web\AlunoController.class

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Raquel Fit • Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>📊 Dashboard Geral</h1>
+    <a href="alunos.html" class="btn">Voltar</a>
+</header>
+
+<main class="container" style="flex-direction: column; width: 80%">
+
+    <section class="table-box">
+        <h2>Resumo do Sistema</h2>
+
+        <div class="card-container">
+            <div class="card">
+                <h3>👥 Alunos cadastrados</h3>
+                <p id="totalAlunos">0</p>
+            </div>
+
+            <div class="card">
+                <h3>🟢 Pagamentos em dia</h3>
+                <p id="pagos">0</p>
+            </div>
+
+            <div class="card">
+                <h3>🔴 Pagamentos pendentes</h3>
+                <p id="pendentes">0</p>
+            </div>
+
+            <div class="card">
+                <h3>📋 Presenças hoje</h3>
+                <p id="presencasHoje">0</p>
+            </div>
+        </div>
+    </section>
+
+</main>
+
+<script src="js/dashboard.js"></script>
+
+</body>
+</html>
